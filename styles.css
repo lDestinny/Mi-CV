@@ -1,0 +1,32 @@
+body {
+
+    background-color: #E0D9EC;
+
+}
+/* Comentarios */ 
+.desc {text-align: center;}
+
+.TITULOS h1 {
+    color: #434346;
+    text-align: center;
+}
+
+.nombre h2 { 
+    color: rgb(140, 0, 255);
+    text-align: center;
+}
+.nombre h3 { 
+color: #864aff;
+}
+
+h4 {color: #661d27;}
+img {
+display: block;
+margin: auto;
+}
+li {
+color: rgb(122, 0, 0);
+}
+a:hover {
+background-color: rgb(125, 96, 250);
+}
